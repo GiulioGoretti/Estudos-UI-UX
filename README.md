@@ -86,3 +86,28 @@ Estou criando esse repositório para armazenar e organizar meus estudos de **UI/
     
     Durante o teste de usabilidade, apresenta-se uma interface para um potencial usuário. Essa interface pode ser apresentada por meio de um protótipo navegável, que replica a experiência real, ou até mesmo por meio de um produto final já desenvolvido. A pessoa que está aplicando o teste deve ser detentora dos conhecimentos dos princípios de avaliação heurística apresentados acima. Esse indivíduo simplesmente observa o potencial usuário, utilizando o seu produto, e utiliza os princípios como uma espécie de checklist, de modo a avaliar cada um dos princípios, durante o teste, para que se tenha uma avaliação de como foi a experiência em cada ponto. Esse é um teste qualitativo, sendo realizado por um grupo pequeno de pessoas que representam sua base de usuário. É recomendado até seis pessoas, com um objetivo
 predeterminado com aquele teste. Ainda, trata-se de uma execução de tarefa apenas, e não do uso do produto todo. Ao final do teste, faz-se um relatório de como foi a experiência e se determina qual foi a pontuação em relação à avaliação heurística daquele produto. Isso pode ser feito em uma escala de pontuação de 1 até 5 ou em uma classificação como “muito ruim”, “ruim”, “médio”, “bom” ou “ótimo”
+
+## UX Design e Análise de Resultados
+
+1. *Introdução ao UX Design*
+
+    O UX Design (User Experience Design) é a área responsável por criar experiências satisfatórias para os usuários ao interagir com produtos e serviços digitais. Ele envolve a pesquisa de necessidades, design de interface intuitiva e testes para garantir usabilidade e eficiência. O foco principal é tornar a navegação fluida, acessível e agradável.
+
+
+2. *Tipos de Teste e Pesquisa* 
+    
+    -Pesquisas Qualitativas: Buscam entender o comportamento, motivações e dores dos usuários por meio de entrevistas, testes de usabilidade e grupos focais.
+    -Pesquisas Quantitativas: Analisam dados numéricos e padrões de uso, utilizando métricas como taxas de conversão, tempo de permanência em páginas e testes A/B.
+
+    Ambas as abordagens são essenciais para um design baseado em dados e feedback real dos usuários.
+    
+3. *Qualidade e Confiabilidade dos Resultados*
+
+    A confiabilidade dos resultados depende de uma amostragem representativa e de métodos bem estruturados. Evitar vieses, coletar dados de forma consistente e repetir testes são formas de garantir que os insights obtidos sejam precisos e úteis para a tomada de decisão.
+
+4. *Análise Estatística e Visualização dos Resultados*
+    
+    Os dados coletados precisam ser organizados e analisados para identificar padrões e tendências. Ferramentas como gráficos, dashboards interativos e mapas de calor ajudam a tornar os insights mais visuais e compreensíveis, facilitando a interpretação e aplicação no design.
+
+## Poduo e Projeto de Interface
+
