@@ -24,7 +24,7 @@ Estou criando esse repositório para armazenar e organizar meus estudos de **UI/
 
 3. **Comunicabilidade e Acessibilidade**
 
-    A Comunicabilidade, como uma das principais ferramentas do design, se refere à capacicade de transmitir informações de forma clara e eficaz. Além disso, tem papel fundamental no contexto da inclusão social, gatantindo que todos os usuários possam entender e usar de serviços, produtos e sistemas. Para garantir a comunicabilidade, os designers e desenvolvedores precisam considerar as necessidades e capacidades de todos os usuários, incluindo pessoas com deficiências físicas e cognitivas. Isso pode ser feito por uma variedade de estratégias, como:
+    A Comunicabilidade, como uma das principais ferramentas do design, se refere à capacicade de transmitir informações de forma clara e eficaz. Além disso, tem papel fundamental no contexto da inclusão social,  gatantindo que todos os usuários possam entender e usar de serviços, produtos e sistemas. Para garantir a comunicabilidade, os designers e desenvolvedores precisam considerar as necessidades e capacidades de todos os usuários, incluindo pessoas com deficiências físicas e cognitivas. Isso pode ser feito por uma variedade de estratégias, como:
         * *Linguagem clara e consisa*: evitando uso de jargões ou termos técnicos;
         * *Contrastes visuais*: podendo facilitar a leitura e a compreenção de informações visuais;
         * *Legendas e audiodescrição*: permitem que pessoas com deficiências possam entender informações visuais e auditivas;
@@ -36,7 +36,9 @@ Estou criando esse repositório para armazenar e organizar meus estudos de **UI/
 
 ## Design Inclusivo, Engenharia Cognitiva e Semiótica
 
-    A implementação de práticas de acessibilidade tornou-se uma estratégia para o sucesso empresarial, impulsionando o crescimento e a competitividade, geranto resultados marcantes e impactando positivamente a vida das pessoas. As engenharias cognitiva e semiótica se complementam para construir experiências mais ricas e significativas levando em conta as necessidades de inclusão de um mundo cada vez mais diverso e conectado.
+    A implementação de práticas de acessibilidade tornou-se uma estratégia para o sucesso empresarial, impulsionando o crescimento e a competitividade, geranto resultados marcantes e impactando
+    positivamente a vida das pessoas. As engenharias cognitiva e semiótica se complementam para construir experiências mais ricas e significativas levando em conta as necessidades de inclusão 
+    de um mundo cada vez mais diverso e conectado.
 
 1. **Desing Inclusivo** 
 
@@ -49,11 +51,14 @@ Estou criando esse repositório para armazenar e organizar meus estudos de **UI/
         * Perceptibilidade*: Permitindo percepção em todos os sentidos, incluindo visão, audição, tato e olfato. 
 
 2. **Engenharia Cognitiva** 
-    A Engenharia Cognitiva se dedica a desvendar os mecanismos por trás da mente humana através de estudos e pesquisas, buscando entender como processamos informaçõs, tomamos decisões e interagimos com o mundo ao nosso redor e contribuindo com o design inclusivo fornecendo insights sobre a **percepção** e interpretação do usuário com as informações visuais, auditivas e táteis e a **memória**, forma como os usuários armazenam e recuperam informações. 
+    A Engenharia Cognitiva se dedica a desvendar os mecanismos por trás da mente humana através de estudos e pesquisas, buscando entender como processamos informaçõs, tomamos decisões e interagimos
+    com o mundo ao nosso redor e contribuindo com o design inclusivo fornecendo insights sobre a **percepção** e interpretação do usuário com as informações visuais, auditivas e táteis e a 
+    **memória**, forma como os usuários armazenam e recuperam informações. 
 
 3. **Engenharia Semiótica**
 
-    A Semiótica estuda os signos e símbolos presentes na linguagem, nos objetos e na cultura, contrubindo para o design fornecendo ferramentas para interpretar os significados presentes em interfaces e produtos. Seus principais conceitos são: 
+    A Semiótica estuda os signos e símbolos presentes na linguagem, nos objetos e na cultura, contrubindo para o design fornecendo ferramentas para interpretar os significados presentes em 
+    interfaces e produtos. Seus principais conceitos são: 
 
         * *Signo*: qualquer elemento que representa algo para alguém;
         * *Símbolo*: um tipo de signo que representa algo por uma convenção social;
@@ -61,11 +66,14 @@ Estou criando esse repositório para armazenar e organizar meus estudos de **UI/
         * *Índice*: um tipo de signo que representa algo por contiguidade;
         * *Metáfora*: uma figura de linguagem que compara duas coisas diferentes.
     
-    Cada elemento da interface deve transmitir um significado claro e preciso, evitando ambiguidades e interpretações errôneas. Os símbolos e ícones são culturamente sensíveis, portanto devem ser adaptados para diferentes culturas e contextos, assim evitando interpretações errôneas ou ofensivas. Através da escolha consciente de símbolos, ícones, cores e metáforas, podemos construir interfaces que comunicam seus significados de forma clara e inequívoca para todos os usuários, independentemente de suas origens, culturas ou habilidades.
+    Cada elemento da interface deve transmitir um significado claro e preciso, evitando ambiguidades e interpretações errôneas. Os símbolos e ícones são culturamente sensíveis, portanto 
+    devem ser adaptados para diferentes culturas e contextos, assim evitando interpretações errôneas ou ofensivas. Através da escolha consciente de símbolos, ícones, cores e metáforas, 
+    podemos construir interfaces que comunicam seus significados de forma clara e inequívoca para todos os usuários, independentemente de suas origens, culturas ou habilidades.
 
 ## Avaliação Heurística
 
-    A Avaliação Heurística é uma técnica de avaliação de usabilidade que utiliza princípios da usabilidade para identificar problemas em interfaces através de um processo de escoberta dividido nas seguintes etapas:
+    A Avaliação Heurística é uma técnica de avaliação de usabilidade que utiliza princípios da usabilidade para identificar problemas em interfaces através de um processo de escoberta 
+    dividido nas seguintes etapas:
          
          - Selecionar os princípios da usabilidade que serão usados na avaliação;
          - Formar uma equipe de avaliadores composta de pessoas com experiência em usabilidade;
@@ -84,14 +92,21 @@ Estou criando esse repositório para armazenar e organizar meus estudos de **UI/
         * *Flexibilidade e eficiência de uso*: os usuários devem ser capazes de usar o sistema de forma eficiente, sem ter que se esforçar muito;
         * *Estética e design minimalista*: o sistema deve ser agradável de usar e não deve conter elementos desnecessários.
     
-    Durante o teste de usabilidade, apresenta-se uma interface para um potencial usuário. Essa interface pode ser apresentada por meio de um protótipo navegável, que replica a experiência real, ou até mesmo por meio de um produto final já desenvolvido. A pessoa que está aplicando o teste deve ser detentora dos conhecimentos dos princípios de avaliação heurística apresentados acima. Esse indivíduo simplesmente observa o potencial usuário, utilizando o seu produto, e utiliza os princípios como uma espécie de checklist, de modo a avaliar cada um dos princípios, durante o teste, para que se tenha uma avaliação de como foi a experiência em cada ponto. Esse é um teste qualitativo, sendo realizado por um grupo pequeno de pessoas que representam sua base de usuário. É recomendado até seis pessoas, com um objetivo
-predeterminado com aquele teste. Ainda, trata-se de uma execução de tarefa apenas, e não do uso do produto todo. Ao final do teste, faz-se um relatório de como foi a experiência e se determina qual foi a pontuação em relação à avaliação heurística daquele produto. Isso pode ser feito em uma escala de pontuação de 1 até 5 ou em uma classificação como “muito ruim”, “ruim”, “médio”, “bom” ou “ótimo”
+    Durante o teste de usabilidade, apresenta-se uma interface para um potencial usuário. Essa interface pode ser apresentada por meio de um protótipo navegável, que replica a experiência 
+    real, ou até mesmo por meio de um produto final já desenvolvido. A pessoa que está aplicando o teste deve ser detentora dos conhecimentos dos princípios de avaliação heurística apresentados 
+    acima. Esse indivíduo simplesmente observa o potencial usuário, utilizando o seu produto, e utiliza os princípios como uma espécie de checklist, de modo a avaliar cada um dos princípios, 
+    durante o teste, para que se tenha uma avaliação de como foi a experiência em cada ponto. Esse é um teste qualitativo, sendo realizado por um grupo pequeno de pessoas que representam sua 
+    base de usuário. É recomendado até seis pessoas, com um objetivo
+    predeterminado com aquele teste. Ainda, trata-se de uma execução de tarefa apenas, e não do uso do produto todo. Ao final do teste, faz-se um relatório de como foi a experiência e se determina 
+    qual foi a pontuação em relação à avaliação heurística daquele produto. Isso pode ser feito em uma escala de pontuação de 1 até 5 ou em uma classificação como “muito ruim”, “ruim”, “médio”, 
+    “bom” ou “ótimo”
 
 ## UX Design e Análise de Resultados
 
 1. *Introdução ao UX Design*
 
-    O UX Design (User Experience Design) é a área responsável por criar experiências satisfatórias para os usuários ao interagir com produtos e serviços digitais. Ele envolve a pesquisa de necessidades, design de interface intuitiva e testes para garantir usabilidade e eficiência. O foco principal é tornar a navegação fluida, acessível e agradável.
+    O UX Design (User Experience Design) é a área responsável por criar experiências satisfatórias para os usuários ao interagir com produtos e serviços digitais. Ele envolve a pesquisa
+    de necessidades, design de interface intuitiva e testes para garantir usabilidade e eficiência. O foco principal é tornar a navegação fluida, acessível e agradável.
 
 
 2. *Tipos de Teste e Pesquisa* 
@@ -103,11 +118,13 @@ predeterminado com aquele teste. Ainda, trata-se de uma execução de tarefa ape
     
 3. *Qualidade e Confiabilidade dos Resultados*
 
-    A confiabilidade dos resultados depende de uma amostragem representativa e de métodos bem estruturados. Evitar vieses, coletar dados de forma consistente e repetir testes são formas de garantir que os insights obtidos sejam precisos e úteis para a tomada de decisão.
+    A confiabilidade dos resultados depende de uma amostragem representativa e de métodos bem estruturados. Evitar vieses, coletar dados de forma consistente e repetir testes são formas 
+    de garantir que os insights obtidos sejam precisos e úteis para a tomada de decisão.
 
 4. *Análise Estatística e Visualização dos Resultados*
     
-    Os dados coletados precisam ser organizados e analisados para identificar padrões e tendências. Ferramentas como gráficos, dashboards interativos e mapas de calor ajudam a tornar os insights mais visuais e compreensíveis, facilitando a interpretação e aplicação no design.
+    Os dados coletados precisam ser organizados e analisados para identificar padrões e tendências. Ferramentas como gráficos, dashboards interativos e mapas de calor ajudam a tornar os 
+    insights mais visuais e compreensíveis, facilitando a interpretação e aplicação no design.
 
 ## Poduo e Projeto de Interface
 
